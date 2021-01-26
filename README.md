@@ -1,6 +1,6 @@
 # Demo
 
-<img src="https://drive.google.com/file/d/19Y1zcV6mTbDc1IbQP_y5o_UBZtsvI9Sd/view?usp=sharing" />
+<img src="https://drive.google.com/file/d/19Y1zcV6mTbDc1IbQP_y5o_UBZtsvI9Sd/view" />
 
 
 # Getting Started with Create React App
